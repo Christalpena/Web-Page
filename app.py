@@ -3,6 +3,7 @@ from flask import Flask, render_template, request,flash,redirect,url_for
 
 
 #comienzan las rutas
+#holaaaaaaaaaaaaa
 
 app= Flask (__name__)
 app.secret_key ='christal'
