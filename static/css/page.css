@@ -73,17 +73,8 @@ header .texts_headers{
 
 .texts_headers h1{
     font-size: 50px;
-    color: white;
-}
-.texts_headers h1 {
-    -webkit-text-stroke: 1px black;
-   }
-
-
-.texts_headers h2{
-    font-size: 30px;
-    color: #a11432;
-    font-weight: 600;
+    color: orangered;
+    background-color: white;
 }
 
 .container2 {
