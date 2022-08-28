@@ -7,7 +7,7 @@ En esta pagina podrás encontrar documentaciones de diferentes tipos de lenguaje
 
 ---El link lo llevara a esta pagina.
 
-![Screenshot 2022-08-28 002558](https://user-images.githubusercontent.com/107286072/187057362-7d18e7d3-79e4-461e-a5b8-4d9d4a573ed0.jpg)
+![Screenshot 2022-08-28 002558](https://user-images.githubusercontent.com/107286072/187061772-f29f19c1-746f-47e8-b686-a6c6a27d288b.jpg)
 
 ---Donde podra encontrar dos secciones: una con una breve discripcion de lo que podras hacer en esta pagina y otra con diferentes imagenes que lo redireccionara a la pagina seleccionada.
 
