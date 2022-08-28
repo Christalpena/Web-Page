@@ -3,7 +3,7 @@ En esta pagina podrás encontrar documentaciones de diferentes tipos de lenguaje
 
 ---Primero corra el app.py como archivo de python y dirijase al link que aparece en la terminar.
 
-![Screenshot 2022-08-28 002558](https://user-images.githubusercontent.com/107286072/187061694-e6414062-b922-4d13-9ab7-7c5059447527.jpg)
+![Screenshot 2022-08-28 002251](https://user-images.githubusercontent.com/107286072/187061754-96da3c72-0350-4337-beaa-01b569aa6ffb.jpg)
 
 ---El link lo llevara a esta pagina.
 
