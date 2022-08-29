@@ -48,7 +48,7 @@ Tambien contara con un paginacion que aumentara segun las documentaciones guarda
 
 ![Screenshot 2022-08-28 005124](https://user-images.githubusercontent.com/107286072/187058165-c38b8114-bad4-4a49-9413-c7a5c2c3f402.jpg)
 
----Cada pagina constara con una alarta que dira si tu documentacion se a guardado correctamente.
+---Cada pagina constara con una alerta que dira si tu documentacion se a guardado correctamente.
 
 ![Screenshot 2022-08-28 010003](https://user-images.githubusercontent.com/107286072/187058321-964330dc-6304-48f7-a0f4-7f386a51b052.jpg)
 ![Screenshot 2022-08-28 005822](https://user-images.githubusercontent.com/107286072/187058329-c0b5b521-1808-4fa7-b199-6c67e8feec23.jpg)
